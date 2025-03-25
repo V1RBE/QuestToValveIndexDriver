@@ -1,0 +1,188 @@
+﻿  driver.cpp
+C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(19,33): error C2039: 'IVRRenderController': is not a member of 'vr'
+      C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(13,11):
+      see declaration of 'vr'
+  
+C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(19,33): error C2504: 'IVRRenderController': base class undefined
+C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(134,44): error C2039: 'DriverTransform_t': is not a member of 'vr'
+      C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(13,11):
+      see declaration of 'vr'
+  
+C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(134,34): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(134,61): error C2143: syntax error: missing ',' before '&'
+C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(28,30): error C3668: 'MyController::Activate': method with override specifier 'override' did not override any base class methods
+C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(58,18): error C3668: 'MyController::Deactivate': method with override specifier 'override' did not override any base class methods
+C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(64,18): error C3668: 'MyController::RunFrame': method with override specifier 'override' did not override any base class methods
+C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(118,18): error C3668: 'MyController::GetInputState': method with override specifier 'override' did not override any base class methods
+C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(123,31): error C3668: 'MyController::GetControllerState': method with override specifier 'override' did not override any base class methods
+C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(129,18): error C3668: 'MyController::TriggerHapticPulse': method with override specifier 'override' did not override any base class methods
+C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(134,18): error C3668: 'MyController::AttachToDisplay': method with override specifier 'override' did not override any base class methods
+C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(139,22): error C3668: 'MyController::GetId': method with override specifier 'override' did not override any base class methods
+C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(35,13): error C2039: 'IVRDriverHost': is not a member of 'vr'
+      C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(13,11):
+      see declaration of 'vr'
+  
+C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(35,13): error C2065: 'IVRDriverHost': undeclared identifier
+C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(35,28): error C2065: 'pDriverHost': undeclared identifier
+C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(35,46): error C3083: 'VRDriver': the symbol to the left of a '::' must be a type
+C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(35,56): error C2039: 'GetGenericInterface': is not a member of 'vr'
+      C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(13,11):
+      see declaration of 'vr'
+  
+C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(35,80): error C2039: 'IVRDriverHost_Version': is not a member of 'vr'
+      C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(13,11):
+      see declaration of 'vr'
+  
+C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(35,80): error C2065: 'IVRDriverHost_Version': undeclared identifier
+C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(35,56): error C3861: 'GetGenericInterface': identifier not found
+C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(36,13): error C2065: 'pDriverHost': undeclared identifier
+C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(37,13): error C2065: 'pDriverHost': undeclared identifier
+C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(38,13): error C2065: 'pDriverHost': undeclared identifier
+C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(39,13): error C2065: 'pDriverHost': undeclared identifier
+C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(40,13): error C2065: 'pDriverHost': undeclared identifier
+C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(40,75): error C2039: 'Prop_ControllerRole_Int32': is not a member of 'vr'
+      C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(13,11):
+      see declaration of 'vr'
+  
+C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(40,75): error C2065: 'Prop_ControllerRole_Int32': undeclared identifier
+C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(40,106): error C3083: 'TrackedControllerRole_T': the symbol to the left of a '::' must be a type
+C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(41,13): error C2065: 'pDriverHost': undeclared identifier
+C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(41,76): error C2039: 'Prop_TrackedDeviceClass_Uint64': is not a member of 'vr'
+      C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(13,11):
+      see declaration of 'vr'
+  
+C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(41,76): error C2065: 'Prop_TrackedDeviceClass_Uint64': undeclared identifier
+C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(43,13): error C2065: 'pDriverHost': undeclared identifier
+C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(43,74): error C2039: 'Prop_HasControllerTracking_Bool': is not a member of 'vr'
+      C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(13,11):
+      see declaration of 'vr'
+  
+C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(43,74): error C2065: 'Prop_HasControllerTracking_Bool': undeclared identifier
+C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(44,13): error C2065: 'pDriverHost': undeclared identifier
+C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(44,74): error C2039: 'Prop_Input_HasProximitySensor_Bool': is not a member of 'vr'
+      C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(13,11):
+      see declaration of 'vr'
+  
+C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(44,74): error C2065: 'Prop_Input_HasProximitySensor_Bool': undeclared identifier
+C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(45,13): error C2065: 'pDriverHost': undeclared identifier
+C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(45,74): error C2039: 'Prop_Input_HasTouchPad_Bool': is not a member of 'vr'
+      C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(13,11):
+      see declaration of 'vr'
+  
+C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(45,74): error C2065: 'Prop_Input_HasTouchPad_Bool': undeclared identifier
+C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(46,13): error C2065: 'pDriverHost': undeclared identifier
+C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(46,74): error C2039: 'Prop_Input_HasJoystick_Bool': is not a member of 'vr'
+      C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(13,11):
+      see declaration of 'vr'
+  
+C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(46,74): error C2065: 'Prop_Input_HasJoystick_Bool': undeclared identifier
+C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(47,13): error C2065: 'pDriverHost': undeclared identifier
+C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(47,74): error C2039: 'Prop_Input_HasTrigger_Bool': is not a member of 'vr'
+      C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(13,11):
+      see declaration of 'vr'
+  
+C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(47,74): error C2065: 'Prop_Input_HasTrigger_Bool': undeclared identifier
+C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(48,13): error C2065: 'pDriverHost': undeclared identifier
+C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(48,74): error C2039: 'Prop_Input_HasGrip_Bool': is not a member of 'vr'
+      C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(13,11):
+      see declaration of 'vr'
+  
+C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(48,74): error C2065: 'Prop_Input_HasGrip_Bool': undeclared identifier
+C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(52,24): error C2039: 'VRInitError_InvalidParam': is not a member of 'vr'
+      C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(13,11):
+      see declaration of 'vr'
+  
+C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(52,24): error C2065: 'VRInitError_InvalidParam': undeclared identifier
+C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(81,13): error C2039: 'DriverPose_t': is not a member of 'vr'
+      C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(13,11):
+      see declaration of 'vr'
+  
+C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(81,13): error C2065: 'DriverPose_t': undeclared identifier
+C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(81,26): error C2146: syntax error: missing ';' before identifier 'pose'
+C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(81,26): error C2065: 'pose': undeclared identifier
+C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(81,31): error C3079: an initializer list cannot be used as the right operand of this assignment operator
+C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(82,9): error C2065: 'pose': undeclared identifier
+C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(83,9): error C2065: 'pose': undeclared identifier
+C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(84,9): error C2065: 'pose': undeclared identifier
+C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(87,9): error C2065: 'pose': undeclared identifier
+C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(88,9): error C2065: 'pose': undeclared identifier
+C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(89,9): error C2065: 'pose': undeclared identifier
+C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(92,16): error C2065: 'pose': undeclared identifier
+C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(92,44): error C2065: 'pose': undeclared identifier
+C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(92,9): error C2660: 'memset': function does not take 2 arguments
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\vcruntime_string.h(63,15):
+      see declaration of 'memset'
+      C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(92,9):
+      while trying to match the argument list '()'
+  
+C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(93,16): error C2065: 'pose': undeclared identifier
+C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(93,48): error C2065: 'pose': undeclared identifier
+C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(93,9): error C2660: 'memset': function does not take 2 arguments
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\vcruntime_string.h(63,15):
+      see declaration of 'memset'
+      C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(93,9):
+      while trying to match the argument list '()'
+  
+C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(94,16): error C2065: 'pose': undeclared identifier
+C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(94,51): error C2065: 'pose': undeclared identifier
+C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(94,9): error C2660: 'memset': function does not take 2 arguments
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\vcruntime_string.h(63,15):
+      see declaration of 'memset'
+      C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(94,9):
+      while trying to match the argument list '()'
+  
+C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(95,16): error C2065: 'pose': undeclared identifier
+C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(95,55): error C2065: 'pose': undeclared identifier
+C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(95,9): error C2660: 'memset': function does not take 2 arguments
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\vcruntime_string.h(63,15):
+      see declaration of 'memset'
+      C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(95,9):
+      while trying to match the argument list '()'
+  
+C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(100,9): error C2065: 'pose': undeclared identifier
+C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(101,9): error C2065: 'pose': undeclared identifier
+C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(102,9): error C2065: 'pose': undeclared identifier
+C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(103,9): error C2065: 'pose': undeclared identifier
+C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(105,9): error C2065: 'pose': undeclared identifier
+C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(105,41): error C2065: 'pose': undeclared identifier
+C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(106,9): error C2065: 'pose': undeclared identifier
+C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(108,13): error C2039: 'IVRDriverHost': is not a member of 'vr'
+      C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(13,11):
+      see declaration of 'vr'
+  
+C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(108,13): error C2065: 'IVRDriverHost': undeclared identifier
+C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(108,28): error C2065: 'pDriverHost': undeclared identifier
+C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(108,46): error C3083: 'VRDriver': the symbol to the left of a '::' must be a type
+C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(108,56): error C2039: 'GetGenericInterface': is not a member of 'vr'
+      C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(13,11):
+      see declaration of 'vr'
+  
+C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(108,80): error C2039: 'IVRDriverHost_Version': is not a member of 'vr'
+      C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(13,11):
+      see declaration of 'vr'
+  
+C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(108,80): error C2065: 'IVRDriverHost_Version': undeclared identifier
+C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(108,56): error C3861: 'GetGenericInterface': identifier not found
+C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(109,13): error C2065: 'pDriverHost': undeclared identifier
+C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(111,13): error C2065: 'pDriverHost': undeclared identifier
+C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(111,69): error C2065: 'pose': undeclared identifier
+C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(111,82): error C2065: 'pose': undeclared identifier
+C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(151,36): error C2039: 'IVRDriverContext': is not a member of 'vr'
+      C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(13,11):
+      see declaration of 'vr'
+  
+C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(151,36): error C2504: 'IVRDriverContext': base class undefined
+C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(163,39): error C2039: 'IVRDriverHost': is not a member of 'vr'
+      C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(13,11):
+      see declaration of 'vr'
+  
+C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(163,39): error C2061: syntax error: identifier 'IVRDriverHost'
+C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(209,17): error C2039: 'IVRTrackedDeviceDriver': is not a member of 'vr'
+      C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(13,11):
+      see declaration of 'vr'
+  
+C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(209,39): error C2143: syntax error: missing ';' before '*'
+C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(209,17): error C2433: 'MyDriverContext::IVRTrackedDeviceDriver': 'virtual' not permitted on data declarations
+C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(209,17): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(210,5): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\mcman\Documents\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\QuestToValveIndexDriver\driver.cpp(210,5): error C1003: error count exceeds 100; stopping compilation
